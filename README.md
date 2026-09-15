@@ -1,4 +1,4 @@
-# campus-git
+# campus-git - Rama principal
 
 Repositorio utilizado para las prácticas de Git.
 
